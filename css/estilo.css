@@ -381,8 +381,9 @@ header .menu .c-3:hover{
 		font-size: 12px;
 	}
 	
-	.navbar{
-		margin-bottom: px;
+	.redes-sociales .icono{
+		width: 40px;
+		height: 40px;
 	}
 	
 }
